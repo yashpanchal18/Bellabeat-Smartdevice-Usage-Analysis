@@ -29,7 +29,7 @@ Performed using Python. Key steps:
 - Removed duplicates and null values  
 - Created features for analysis (e.g., active minutes by intensity level)  
 
-## 📊 Analysis Summary  
+## Analysis Summary  
 - Users with higher activity minutes tend to burn more calories  
 - Peak heart rate aligns with working hours, showing users’ most active periods  
 - Longer sleep durations correlate with lower step counts  
@@ -48,6 +48,7 @@ It includes:
 - Calorie burn vs intensity correlations  
 
 ![image](https://github.com/user-attachments/assets/00280355-4ad1-4459-a1ba-cc82d2a3b191)
+
 ![image](https://github.com/user-attachments/assets/87827e80-c0cb-40c9-a9a7-36ba79dd0076)
 
 **Insight Highlights:**  
